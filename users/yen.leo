@@ -98,6 +98,20 @@
 <v t="leo.20170406085508.9"><vh>37</vh></v>
 </v>
 </v>
+<v t="leo.20170413005342.1"><vh>五</vh>
+<v t="leo.20170413005342.2" a="E"><vh>38</vh>
+<v t="leo.20170413005342.3"><vh>39</vh></v>
+</v>
+<v t="leo.20170413005342.4" a="E"><vh>40</vh>
+<v t="leo.20170413005342.5"><vh>41</vh></v>
+</v>
+<v t="leo.20170413005342.6" a="E"><vh>42</vh>
+<v t="leo.20170413005342.7"><vh>43</vh></v>
+</v>
+<v t="leo.20170413005342.8" a="E"><vh>44</vh>
+<v t="leo.20170413005342.9"><vh>45</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -108,6 +122,7 @@
 <v t="leo.20170406085817.1"><vh>@edit 20170309.md</vh></v>
 <v t="leo.20170406090053.1"><vh>@edit 201703016.md</vh></v>
 <v t="leo.20170406090401.1"><vh>@edit 201703023.md</vh></v>
+<v t="leo.20170413005910.1"><vh>@edit 201703030.md</vh></v>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -247,7 +262,7 @@
 						
 </t>
 <t tx="leo.20170406083255.9">##Solvespace三角形頂點運動軌跡
-
+&lt;a href="https://vimeo.com/210613707"&gt;影片&lt;/a&gt;
 
 </t>
 <t tx="leo.20170406085259.1">&lt;section data-markdown&gt;
@@ -308,7 +323,7 @@
 						
 </t>
 <t tx="leo.20170406085508.5">#HYPERWORKS安裝
-
+##照步驟慢慢做沒甚麼問題，但影片錄影失敗所以無法呈現。
 </t>
 <t tx="leo.20170406085508.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -332,6 +347,65 @@
 						
 </t>
 <t tx="leo.20170406085508.9">##心得四
+
+
+</t>
+<t tx="leo.20170413005342.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170413005342.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170413005342.3">## 第五週功課
+###1.one-link robot 繪製轉V-rep做動態模擬
+####2.four-links robot 繪製轉V-rep做動態模擬
+
+</t>
+<t tx="leo.20170413005342.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170413005342.5">#1.one-link robot 繪製轉V-rep做動態模擬
+&lt;a href="https://vimeo.com/212379360"&gt;影片&lt;/a&gt;
+</t>
+<t tx="leo.20170413005342.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170413005342.7">##2.four-links robot 繪製轉V-rep做動態模擬
+
+&lt;a href="https://www.youtube.com/watch?v=kObzYp6bkz8"&gt;影片&lt;/a&gt;
+</t>
+<t tx="leo.20170413005342.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170413005342.9">##心得五
 
 
 </t>

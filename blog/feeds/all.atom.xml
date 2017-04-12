@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 網際內容管理 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-02T00:00:00+08:00</updated><entry><title>2017.03.02</title><link href="./w1.html" rel="alternate"></link><published>2017-03-02T00:00:00+08:00</published><updated>2017-03-02T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-02:./w1.html</id><summary type="html">&lt;p&gt;2017.03.02&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 網際內容管理 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-30T00:00:00+08:00</updated><entry><title>2017.03.30</title><link href="./w55.html" rel="alternate"></link><published>2017-03-30T00:00:00+08:00</published><updated>2017-03-30T00:00:00+08:00</updated><author><name>40423157</name></author><id>tag:,2017-03-30:./w55.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;1.one-link robot 繪製轉V-rep做動態模擬&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://vimeo.com/212379360" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2.four-links robot 繪製轉V-rep做動態模擬&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=kObzYp6bkz8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w5"></category></entry><entry><title>2017.03.23</title><link href="./w44.html" rel="alternate"></link><published>2017-03-23T00:00:00+08:00</published><updated>2017-03-23T00:00:00+08:00</updated><author><name>40423157</name></author><id>tag:,2017-03-23:./w44.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;1.HYPERWORKS安裝&lt;/h1&gt;
+&lt;h2&gt;照步驟慢慢做沒甚麼問題，但影片錄影失敗所以無法呈現。&lt;/h2&gt;
+&lt;h3&gt;2.one-link robot 繪製轉V-rep&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w4"></category></entry><entry><title>2017.03.16</title><link href="./w33.html" rel="alternate"></link><published>2017-03-16T00:00:00+08:00</published><updated>2017-03-16T00:00:00+08:00</updated><author><name>40423157</name></author><id>tag:,2017-03-16:./w33.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;1.onshape四連桿繪製V-rep&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://vimeo.com/207886973" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;2.回家下載Altair，點進連結，他有執行步驟，首先進入選擇學生版Altair商店選擇國家、貨幣&lt;/h2&gt;
+&lt;p&gt;&lt;img src="./../data/chrome_2017-03-11_10-27-52" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/chrome_2017-03-11_10-24-34" width="560" /&gt;&lt;/p&gt;
+&lt;h3&gt;再來輸入乙太網路HostID，下一步是輸入帳號密碼，沒有建立一個線上商店帳號，步驟上有寫需使用學校電子郵件，之後會收到登入訊息，有一串密碼輸入，完成以上動作後，許可證請求仍需要由Altair大學團隊批准，批准後將收到訂單確認電子郵件並提供狀態。&lt;/h3&gt;
+&lt;p&gt;&lt;img src="./../data/chrome_2017-03-11_10-28-24" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/chrome_2017-03-11_10-54-11" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/chrome_2017-03-11_11-06-30" width="560" /&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>2017.03.09</title><link href="./w22.html" rel="alternate"></link><published>2017-03-09T00:00:00+08:00</published><updated>2017-03-09T00:00:00+08:00</updated><author><name>40423157</name></author><id>tag:,2017-03-09:./w22.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;1.輸入ipconfig /all查詢ipv4伺服器位址，使用SciTE開啟stunnel.conf修改accept的ip位址，並利用ipv4網路連線讓各組網站運用。&lt;/h1&gt;
+&lt;p&gt;&lt;img src="./../data/ipv4" width="560" /&gt;&lt;/p&gt;
+&lt;h2&gt;2.用Solvespace製作四連桿系統，繪製好後利用Triangle Mesh轉成STL，再利用對應的vrep開啟，現在只做好轉檔開啟動作下次會做定位、動態分析等操作。&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://vimeo.com/206688513" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w22"></category></entry><entry><title>2017.03.02</title><link href="./w1.html" rel="alternate"></link><published>2017-03-02T00:00:00+08:00</published><updated>2017-03-02T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-02:./w1.html</id><summary type="html">&lt;p&gt;2017.03.02&lt;/p&gt;
 
 
-&lt;h2&gt;歷年網際內容管理課程&lt;/h2&gt;
-&lt;p&gt;1111111111&lt;/p&gt;</summary><category term="syllabus"></category><category term="w2"></category></entry></feed>
+&lt;h2&gt;請每人準備一個隨身碟, 下載可攜程式系統 (1GB)了解如何利用 Solvespace 與 Onshape 組立單軸旋轉連桿系統、四連桿系統&lt;/h2&gt;</summary><category term="syllabus"></category><category term="w2"></category></entry></feed>
