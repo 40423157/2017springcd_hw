@@ -80,7 +80,7 @@
 <v t="leo.20170406085259.1"><vh>26</vh>
 <v t="leo.20170406085259.2"><vh>27</vh></v>
 </v>
-<v t="leo.20170406085355.1"><vh>28</vh>
+<v t="leo.20170406085355.1" a="E"><vh>28</vh>
 <v t="leo.20170406085355.2"><vh>29</vh></v>
 </v>
 </v>
@@ -112,6 +112,20 @@
 <v t="leo.20170413005342.9"><vh>45</vh></v>
 </v>
 </v>
+<v t="leo.20170417225633.1"><vh>六</vh>
+<v t="leo.20170417225633.2" a="E"><vh>46</vh>
+<v t="leo.20170417225633.3"><vh>47</vh></v>
+</v>
+<v t="leo.20170417225633.4" a="E"><vh>48</vh>
+<v t="leo.20170417225633.5"><vh>49</vh></v>
+</v>
+<v t="leo.20170417230001.1" a="E"><vh>48-2</vh>
+<v t="leo.20170417230001.2"><vh>49-3</vh></v>
+</v>
+<v t="leo.20170417225633.8" a="E"><vh>50</vh>
+<v t="leo.20170417225633.9"><vh>51</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -123,6 +137,7 @@
 <v t="leo.20170406090053.1"><vh>@edit 201703016.md</vh></v>
 <v t="leo.20170406090401.1"><vh>@edit 201703023.md</vh></v>
 <v t="leo.20170413005910.1"><vh>@edit 201703030.md</vh></v>
+<v t="leo.20170417230326.1"><vh>@edit 201704006.md</vh></v>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -201,7 +216,7 @@
 						
 </t>
 <t tx="leo.20170406083023.9">##心得二
-
+###繪製四連桿時有想到要不要給連桿加上底座，在V-rep做單連桿運動模擬有固定底座，所以有疑問。在跟改ip時我有些步驟忘了，我有請問同學，下次些筆記要快點。
 
 </t>
 <t tx="leo.20170406083255.1">&lt;section&gt;
@@ -289,7 +304,7 @@
 						
 </t>
 <t tx="leo.20170406085355.2">##心得三
-
+###影片我負責第三片，內容中有提到運用的軟體，這些軟體很有用，有空我一定要去好好了解，ALTAIR下載說明都是英文剛好練習看英文，
 
 </t>
 <t tx="leo.20170406085508.1">&lt;section&gt;
@@ -347,7 +362,7 @@
 						
 </t>
 <t tx="leo.20170406085508.9">##心得四
-
+###HYPERWORKS下載步驟蠻多的主要是他不能同時下載，要慢慢等，而這週我把網誌推壞了所以我重新做過。
 
 </t>
 <t tx="leo.20170413005342.1">&lt;section&gt;
@@ -406,8 +421,68 @@
 						
 </t>
 <t tx="leo.20170413005342.9">##心得五
+###單連桿和四連桿作動態模擬，單連桿比較沒問題，但四連桿出了問題，我的固定桿只有一個，不知道要怎麼封閉，所以我改為兩個固定桿，後來再做就成功。
+
+</t>
+<t tx="leo.20170417225633.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170417225633.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
 
+
+						
+</t>
+<t tx="leo.20170417225633.3">## 第六週功課
+###1.八連桿繪製
+####2.八連桿繪製轉V-rep做動態模擬
+
+</t>
+<t tx="leo.20170417225633.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417225633.5">#八連桿繪製轉V-rep做動態模擬
+&lt;a href="https://vimeo.com/213523734"&gt;影片&lt;/a&gt;
+</t>
+<t tx="leo.20170417225633.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170417225633.9">##心得六
+###繪製八連桿時我是先用Solvespace測試連桿運動還有尺寸大小，畫與組裝沒甚麼問題但到了V-rep時再桿與桿連結時需要想一下，在無法封閉的部分要利用dummy去固定連結關係，而馬達我只啟動一個帶動整個八連桿，了解想通後做起來就很快。
+
+</t>
+<t tx="leo.20170417230001.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417230001.2">#八連桿模擬軌跡
+&lt;a href="https://vimeo.com/213423386"&gt;影片&lt;/a&gt;
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
